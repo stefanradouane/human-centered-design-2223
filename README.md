@@ -1,4 +1,4 @@
-# Human Centered Design @cmda-minor-web 2021 - 2022
+# Human Centered Design @cmda-minor-web 2022 - 2023
 
 Human Centered Design is een  methode voor het ontwerpen van gebruiksvriendelijke interactieve toepassingen.
 
@@ -40,65 +40,62 @@ En hoe bedient deze persoon een computer?
 
 | Planning  | Woensdag  |  Donderdag | Vrijdag  |
 |---|---|---|---|
-| [Week 1](#week-1---kickoff-en-aannames-testen)  | Intro, College exclusive design + Testen | College + Testen | Feedbackgesprekken |
-| [Week 2](#week-2---prototypen-en-testen)  | ~~Koningsdag~~  | College + Testen | Feedbackgesprekken  |
+| [Week 1](#week-1---kickoff-en-aannames-testen)  | Intro & College exclusive design | College + Testen | Feedbackgesprekken |
+| [Week 2](#week-2---prototypen-en-testen)  | College + Testen | ~~Koningsdag~~  | ~~Vrij~~  | 
 | ~~Meivakantie~~ |   |  |   |
-| [Week 3](#week-3---prototypen-testen-en-reflecteren)  | College + Testen  |  College + Testen | Beoordelingsgesprekken  |
+| [Week 3](#week-3---prototypen-testen-en-reflecteren)  | College  |  College + Testen | Beoordelingsgesprekken  |
 
 
-## Week 1 - Kickoff en aannames testen 
+## Week 1 - Intro en aannames testen 
 
 Deze week krijg je een college over _Exclusive Design Principles_. Deze Principles ga je toepassen in de opdracht. Op woensdag en donderdag gaan we kennis maken met de echte mensen voor wie we gaan ontwerpen. Je kan dan al een kleine interactieve demo maken om te testen.
 
-### Woensdag 20 april
+### Woensdag 19 april
 
 Woensdag is de eerste les van het vak Human Centered Design. Je krijgt een intro college over het vak en Vasilis gaat vertellen over _Exclusive Design_.
 
+Daarna prototypen.
+
+### Donderdag 20 april
+
+Donderdag krijg je een college over testen. Ook gaan we deze les het artikel [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/) bespreken.
+
 Daarna prototypen en testen.
 
-### Donderdag 21 april
-
-Donderdag begint de les met het delen van bevindingen van de test van woensdag. Ook gaan we deze les het artikel [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/) bespreken.
-
-Daarna prototypen en testen.
-
-### Vrijdag 22 april
+### Vrijdag 21 april
 
 Feedbackgesprekken in groepen.
 
 
 ## Week 2 - Prototypen en testen 
 
-Deze week heb je het tweede gesprek met je mens. Wat ga je testen? Wat wil je weten? Woensdag is het koningsdag, dan is er geen les.
+Deze week heb je het tweede gesprek met je mens. Wat ga je testen? Wat wil je weten? Donderdag is het koningsdag, dan is er geen les.
 
-### Donderdag 28 april
+### Woensdag 26 april
 
 Donderdag krijg je een college over testen. Voor deze les moet je het artikel [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/) en [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/) lezen.
 
 's Middags ga je voor de tweede keer prototypen en testen.
 
-### Vrijdag 29 april
-
-Feedbackgesprekken in groepen.
 
 
 ## Week 3 - Prototypen, testen en reflecteren
 
 In week 3 gaan we verder met testen, itereren en reflecteren. Deze week is de laatste sessie met je mens.
 
-### Woensdag 11 mei
+### Woensdag 10 mei
 
 Woensdag beginnen we met een college. Voor deze les moet je dit artikel lezen: [Design for Both Needs and Wants: Applying Anderson’s User Experience Hierarchy of Needs](https://thevisualcommunicationguy.com/2018/11/08/design-for-both-needs-and-wants-applying-andersons-user-experience-hierarchy-of-needs/)
 
-Daarna prototypen en testen.
+Daarna prototypen.
 
-### Donderdag 12 mei
+### Donderdag 11 mei
 
 Donderdag gaan we bevindingen van de tests bespreken. 
 
 Daarna prototypen en testen.
 
-### Vrijdag 13 mei
+### Vrijdag 12 mei
 
 Op vrijdag zijn de beoordelingsgesprekken. Je hebt dan een gesprek waarin we je vorderingen en bevindingen bespreekt. We verwachten dat je op Github je tests en iteraties hebt beschreven. Belangrijk is dat je reflecteert op de leerdoelen van het vak. 
 
