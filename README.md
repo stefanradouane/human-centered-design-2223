@@ -52,7 +52,7 @@ Deze week krijg je een college over _Exclusive Design Principles_. Deze Principl
 
 ### Woensdag 19 april
 
-Woensdag is de eerste les van het vak Human Centered Design. Je krijgt een intro college over het vak en Vasilis gaat vertellen over _Exclusive Design_.
+Woensdag is de eerste les van het vak Human Centered Design. Je krijgt een intro college over het vak en Eric gaat vertellen over _Exclusive Design_.
 
 Daarna prototypen.
 
