@@ -40,7 +40,7 @@ En hoe bedient deze persoon een computer?
 
 | Planning  | Woensdag  |  Donderdag | Vrijdag  |
 |---|---|---|---|
-| [Week 1](#week-1---kickoff-en-aannames-testen)  | Intro & College exclusive design | College + Testen | Feedbackgesprekken |
+| [Week 1](#week-1---kickoff-en-aannames-testen)  | Intro & College Exclusive design | College + Testen | Feedbackgesprekken |
 | [Week 2](#week-2---prototypen-en-testen)  | College + Testen | ~~Koningsdag~~  | ~~Vrij~~  | 
 | ~~Meivakantie~~ |   |  |   |
 | [Week 3](#week-3---prototypen-testen-en-reflecteren)  | College  |  College + Testen | Beoordelingsgesprekken  |
