@@ -18,6 +18,8 @@ Voor het maken van deze opdracht maak je gebruik van de [_Exclusive Design Princ
 - Add Nonsense
 
 
+## Testpersonen
+<!-- 
 ### Eric Groot Kormelink
 
 Eric is een ontwerper. Hij organiseert regelmatig design-avonden waar hij probeert om mensen met beperkingen samen te brengen met ontwerpers en makers. Eric zelf zit in een electrische rolstoel. Hij heeft niet de beschikking over de fijne motoriek. Hij heeft ooit met studenten van de minor Makers Lab gewerkt. Eric wilde zijn hele leven al gitaar spelen, maar zijn handen staan daar niet goed voor. Zijn team studenten heeft toen een werkend prototype gemaakt van een apparaat waarmee hij gitaar kan spelen.
@@ -31,7 +33,9 @@ Eric is een ontwerper. Hij organiseert regelmatig design-avonden waar hij probee
 <summary>Body language in chat apps</summary>
 <p>Voor Eric zijn emoji’s niet goed genoeg. Wij wil betere en krachtigere tools om emotie en *body language* te gebruiken in chat apps zoals Signal.
 </details>
+-->
 
+<!--
 ### Marijn Meijles
 
 Marijn is waarschijnlijk de beste developer die je ooit gaat ontmoeten. Een briljante nerd. Hij doet al jaren met heel veel plezier mee aan deze opdracht.
@@ -46,8 +50,9 @@ Marijn heeft een motorische stoornis. Hij gebruikt zijn computer dus anders dan 
 <summary>Ontwerp een Drag & Drop lijst</summary>
 <p>Hoe kun je een drag & drop lijst optimaliseren voor een gebruiker die afhankelijk is van zijn toetsenbord én motorisch gestoord is?
 </details>
+-->
 
-
+<!--
 ### Marie van Driessche
 
 Marie is Doof (met een hoofdletter inderdaad, dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is). Je zult begrijpen dat Marie moeite heeft met dingen waar geluid een grote rol speelt.
@@ -61,7 +66,9 @@ Marie is Doof (met een hoofdletter inderdaad, dat betekent dat ze zichzelf als D
 <summary>Hoe werken closed captions voor Marie?</summary>
 <p>Voor Marie gaat er enorm veel nuance verloren tijdens het kijken naar een film of een documentaire. Bij veel films worden closed captions aangeboden, maar die zijn zo neutraal als maar kan. Hoe zou je closed captions
 </details>
+-->
 
+<!--
 ### Larissa Klaassen
 
 Larissa is blind. Ze maakt gebruik van een brailleregel, en van een screenreader. Je snapt dat heel veel van de gangbare design patterns niet optimaal werken voor haar omdat ze 100% vanuit een visueel oogpunt ontworpen zijn. Larissa is student aan de HvA. En daarnaast is ze topsporter. Ze heeft laatst een gouden medaille gewonnen op de olympische spelen.
@@ -75,7 +82,7 @@ Larissa is blind. Ze maakt gebruik van een brailleregel, en van een screenreader
 <summary>Onzichtbare datavisualisatie</summary>
 <p>Sommigen van jullie hebben hiervoor gewerkt aan datavisualisaties. Prachtige produkten zijn daar uitgekomen. Maar hoe zouden die interactieve datavisualisaties werken en er uitzien als de doelgroep alleen bestond uit Larissa Klaassen?
 </details>
-
+-->
 
 ## Criteria
 
