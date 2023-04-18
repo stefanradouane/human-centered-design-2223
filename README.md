@@ -18,13 +18,13 @@ Wat voor principes heb je gebruikt en getest? En is het leuk?
 
 Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. 
 Een echt mens. 
-Je moet je ontwerp 3 keer testen. 
+Je moet je ontwerp elke week testen. 
 Door te testen en te itereren ga je je ontwerp verbeteren. 
 Uiteindelijk heb je een ontwerp dat exclusief gemaakt is voor 1 persoon. 
 Een _exclusive design_ ... 
 Wie is deze persoon dan voor wie je dit gaat maken? 
 Wat vindt deze persoon leuk of juist niet? 
-En hoe bedient deze persoon een computer?
+Hoe bedient deze persoon een computer?
 
 - [Opdracht - Ontwerpen met en voor echte mensen](course/opdracht-human-centered-design.md)
 
@@ -48,7 +48,7 @@ En hoe bedient deze persoon een computer?
 
 ## Week 1 - Intro en aannames testen 
 
-Deze week krijg je een college over _Exclusive Design Principles_. Deze Principles ga je toepassen in de opdracht. Op woensdag en donderdag gaan we kennis maken met de echte mensen voor wie we gaan ontwerpen. Je kan dan al een kleine interactieve demo maken om te testen.
+Deze week krijg je een college over _Exclusive Design Principles_. Deze Principles ga je toepassen in de opdracht. Op woensdag en donderdag gaan we kennis maken met de echte mensen voor wie we gaan ontwerpen. Zorg dat je al een kleine interactieve demo maakt om te testen.
 
 ### Woensdag 19 april
 
@@ -69,7 +69,7 @@ Feedbackgesprekken in groepen.
 
 ## Week 2 - Prototypen en testen 
 
-Deze week heb je het tweede gesprek met je test-persoon. Wat ga je testen? Wat wil je weten? Donderdag is het koningsdag, dan is er geen les.
+Deze week heb je het tweede gesprek met je testpersoon. Wat ga je testen? Wat wil je weten? Donderdag is het koningsdag, dan is er geen les.
 
 ### Woensdag 26 april
 
@@ -78,7 +78,7 @@ Lees voor deze les de artikelen:
 [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/) 
 en [Design for Both Needs and Wants: Applying Anderson’s User Experience Hierarchy of Needs](https://thevisualcommunicationguy.com/2018/11/08/design-for-both-needs-and-wants-applying-andersons-user-experience-hierarchy-of-needs/) lezen.
 
-'s Middags ga je voor de tweede keer prototypen en testen.
+'s Middags ga je voor de tweede keer testen.
 
 
 
@@ -91,7 +91,7 @@ In week 3 gaan we alle onderzoeken presenteren en publiceren. Eind van de week z
 Woensdag beginnen we met een college. 
 Voor deze les moet je dit artikel lezen: [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/) 
 
-Daarna verder met prototypen.
+Daarna verder werken aan je prototype.
 
 ### Donderdag 11 mei
 
