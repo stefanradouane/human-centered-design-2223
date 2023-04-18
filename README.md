@@ -43,7 +43,7 @@ En hoe bedient deze persoon een computer?
 | [Week 1](#week-1---kickoff-en-aannames-testen)  | Intro & College Exclusive design | College + Testen | Feedbackgesprekken |
 | [Week 2](#week-2---prototypen-en-testen)  | College + Testen | ~~Koningsdag~~  | ~~Vrij~~  | 
 | ~~Meivakantie~~ |   |  |   |
-| [Week 3](#week-3---prototypen-testen-en-reflecteren)  | College  |  College + Testen | Beoordelingsgesprekken  |
+| [Week 3](#week-3---prototypen-presenteren-en-reflecteren)  | College  |  Onderzoeken presenteren | Beoordelingsgesprekken  |
 
 
 ## Week 1 - Intro en aannames testen 
@@ -79,21 +79,20 @@ Donderdag krijg je een college over testen. Voor deze les moet je het artikel [1
 
 
 
-## Week 3 - Prototypen, testen en reflecteren
+## Week 3 - Prototypen, presenteren en reflecteren
 
-In week 3 gaan we verder met testen, itereren en reflecteren. Deze week is de laatste sessie met je mens.
+In week 3 gaan we alle onderzoeken presenteren en publiceren. Eind van de week zijn de beoordelingsgesprekken. 
 
 ### Woensdag 10 mei
 
 Woensdag beginnen we met een college. Voor deze les moet je dit artikel lezen: [Design for Both Needs and Wants: Applying Anderson’s User Experience Hierarchy of Needs](https://thevisualcommunicationguy.com/2018/11/08/design-for-both-needs-and-wants-applying-andersons-user-experience-hierarchy-of-needs/)
 
-Daarna prototypen.
+Daarna verder met prototypen.
 
 ### Donderdag 11 mei
 
-Donderdag gaan we bevindingen van de tests bespreken. 
+Donderdag gaan we de onderzoeken presenteren en gaan we een site maken om al jullie onderzoeksbevindingen te publiceren. 
 
-Daarna prototypen en testen.
 
 ### Vrijdag 12 mei
 
