@@ -35,16 +35,6 @@ Marie is Doof (met een hoofdletter inderdaad, dat betekent dat ze zichzelf als D
 </details>
 
 
-### Larissa Klaassen
-
-Larissa is blind. Ze maakt gebruik van een brailleregel, en van een screenreader. Je snapt dat heel veel van de gangbare design patterns niet optimaal werken voor haar omdat ze 100% vanuit een visueel oogpunt ontworpen zijn. Larissa werkt bij de HvA. En daarnaast is ze topsporter. Ze heeft laatst een gouden medaille gewonnen op de olympische spelen.
-
-<details>
-<summary>Topsport-rooster begrijpen</summary>
-<p>Alle topwielrenners krijgen om de zoveel tijd een Excel sheet toegestuurd waarin alle trainingsschema’s staan. Dit is een uitgebreid, complex ding. En hij is *colour coded*. Je moet dus kunnen zien om hem te kunnen gebruiken. Dat kunnen jullie beter. Dus. Ontwerp een oplossing waardoor Larissa op een prettige en manier de relevante data kan gebruiken.</p>
-</details>
-
-
 ### Petra Huidink-de Jong
 
 Petra is blind. Bij het navigeren gebruikt ze een aantal hulpmiddelen, waaronder een toetsenbord met braille regel en een screenreader. Deze apparaten zijn ontworpen om de informatie van visuele designs om te zetten naar voor haar bruikbare informatie. Maar daar gaat veel in verloren omdat niet alles om te zetten is, of heel erg omslachtig werkt. Petra werkt bij Cliëntenbelang Amsterdam als beleidsmedewerker Toegankelijkheid en Mobiliteit, heeft een eigen vertaalbureau. Daarnaast is ze vrijwilliger bij de luisterlijn en sport graag.
@@ -64,6 +54,14 @@ Nicolette kan beperkt gebruik maken van haar ledematen. Ze gebruikt een rolstoel
 <p>Voor haar werk leest en deelt Nicolette veel stukken tekst op o.a. de website van de gemeente. Het is belangrijk om hier de juiste stukken uit te kunnen halen en door te kunnen sturen. Zonder rechtermuisknop of snelkoppeling is knippen en plakken bijna niet mogelijk. Ontwerp een manier om met spraak en tekentablet tekst te navigeren, selecteren, te knippen en te plakken.</p>
 </details>
 
+### Larissa Klaassen
+
+Larissa is blind. Ze maakt gebruik van een brailleregel, en van een screenreader. Je snapt dat heel veel van de gangbare design patterns niet optimaal werken voor haar omdat ze 100% vanuit een visueel oogpunt ontworpen zijn. Larissa werkt bij de HvA. En daarnaast is ze topsporter. Ze heeft laatst een gouden medaille gewonnen op de olympische spelen.
+
+<details>
+<summary>Topsport-rooster begrijpen</summary>
+<p>Alle topwielrenners krijgen om de zoveel tijd een Excel sheet toegestuurd waarin alle trainingsschema’s staan. Dit is een uitgebreid, complex ding. En hij is *colour coded*. Je moet dus kunnen zien om hem te kunnen gebruiken. Dat kunnen jullie beter. Dus. Ontwerp een oplossing waardoor Larissa op een prettige en manier de relevante data kan gebruiken.</p>
+</details>
 
 ### Eric Groot Kormelink
 
