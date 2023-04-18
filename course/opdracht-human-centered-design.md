@@ -20,23 +20,6 @@ Voor het maken van deze opdracht maak je gebruik van de [_Exclusive Design Princ
 
 ## Testpersonen
 
-
-<!-- 
-### Eric Groot Kormelink
-
-Eric is een ontwerper. Hij organiseert regelmatig design-avonden waar hij probeert om mensen met beperkingen samen te brengen met ontwerpers en makers. Eric zelf zit in een electrische rolstoel. Hij heeft niet de beschikking over de fijne motoriek. Hij heeft ooit met studenten van de minor Makers Lab gewerkt. Eric wilde zijn hele leven al gitaar spelen, maar zijn handen staan daar niet goed voor. Zijn team studenten heeft toen een werkend prototype gemaakt van een apparaat waarmee hij gitaar kan spelen.
-
-<details>
-<summary>*Copypasten* met spraak</summary>
-<p>Eric wil graag met zijn stem basishandelingen kunnen uitvoeren binnen documenten, zoals copy/paste. Hier is het de taak om uit te zoeken welke handelingen hij nog meer vaak gebruikt, en hoe je die op een voor Eric zo prettig mogelijke manier kunt laten werken.
-</details>
-
-<details>
-<summary>Body language in chat apps</summary>
-<p>Voor Eric zijn emoji’s niet goed genoeg. Wij wil betere en krachtigere tools om emotie en *body language* te gebruiken in chat apps zoals Signal.
-</details>
--->
-
 ### Marie van Driessche
 
 Marie is Doof (met een hoofdletter inderdaad, dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is). Je zult begrijpen dat Marie moeite heeft met dingen waar geluid een grote rol speelt.
@@ -81,6 +64,15 @@ Nicolette kan beperkt gebruik maken van haar ledematen. Ze gebruikt een rolstoel
 <p>Voor haar werk leest en deelt Nicolette veel stukken tekst op o.a. de website van de gemeente. Het is belangrijk om hier de juiste stukken uit te kunnen halen en door te kunnen sturen. Zonder rechtermuisknop of snelkoppeling is knippen en plakken bijna niet mogelijk. Ontwerp een manier om met spraak en tekentablet tekst te navigeren, selecteren, te knippen en te plakken.</p>
 </details>
 
+
+### Eric Groot Kormelink
+
+Eric is een ontwerper. Hij organiseert regelmatig design-avonden waar hij probeert om mensen met beperkingen samen te brengen met ontwerpers en makers. Eric zelf zit in een electrische rolstoel. Hij heeft niet de beschikking over de fijne motoriek. Hij heeft ooit met studenten van de minor Makers Lab gewerkt. Eric wilde zijn hele leven al gitaar spelen, maar zijn handen staan daar niet goed voor. Zijn team studenten heeft toen een werkend prototype gemaakt van een apparaat waarmee hij gitaar kan spelen.
+
+<details>
+<summary>Body language in chat apps</summary>
+<p>Voor Eric zijn emoji’s niet goed genoeg. Wij wil betere en krachtigere tools om emotie en *body language* te gebruiken in chat apps zoals Signal.
+</details>
 
 
 
