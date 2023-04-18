@@ -31,7 +31,7 @@ Marie is Doof (met een hoofdletter inderdaad, dat betekent dat ze zichzelf als D
 
 <details>
 <summary>Hoe werken closed captions voor Marie?</summary>
-<p>Voor Marie gaat er enorm veel nuance verloren tijdens het kijken naar een film of een documentaire. Bij veel films worden closed captions aangeboden, maar die zijn zo neutraal als maar kan. Hoe zou je closed captions
+<p>Voor Marie gaat er enorm veel nuance verloren tijdens het kijken naar een film of een documentaire. Bij veel films worden closed captions aangeboden, maar die zijn zo neutraal als maar kan. Hoe zou je closed captions kunnen verrijken zodat deze voor Marie meer betekenis krijgen?
 </details>
 
 
