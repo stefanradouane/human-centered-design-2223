@@ -69,11 +69,14 @@ Feedbackgesprekken in groepen.
 
 ## Week 2 - Prototypen en testen 
 
-Deze week heb je het tweede gesprek met je mens. Wat ga je testen? Wat wil je weten? Donderdag is het koningsdag, dan is er geen les.
+Deze week heb je het tweede gesprek met je test-persoon. Wat ga je testen? Wat wil je weten? Donderdag is het koningsdag, dan is er geen les.
 
 ### Woensdag 26 april
 
-Donderdag krijg je een college over testen. Voor deze les moet je het artikel [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/) en [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/) lezen.
+Donderdag krijg je een college over testen. 
+Lees voor deze les de artikelen:  
+[10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/) 
+en [Design for Both Needs and Wants: Applying Anderson’s User Experience Hierarchy of Needs](https://thevisualcommunicationguy.com/2018/11/08/design-for-both-needs-and-wants-applying-andersons-user-experience-hierarchy-of-needs/) lezen.
 
 's Middags ga je voor de tweede keer prototypen en testen.
 
@@ -85,7 +88,8 @@ In week 3 gaan we alle onderzoeken presenteren en publiceren. Eind van de week z
 
 ### Woensdag 10 mei
 
-Woensdag beginnen we met een college. Voor deze les moet je dit artikel lezen: [Design for Both Needs and Wants: Applying Anderson’s User Experience Hierarchy of Needs](https://thevisualcommunicationguy.com/2018/11/08/design-for-both-needs-and-wants-applying-andersons-user-experience-hierarchy-of-needs/)
+Woensdag beginnen we met een college. 
+Voor deze les moet je dit artikel lezen: [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/) 
 
 Daarna verder met prototypen.
 
