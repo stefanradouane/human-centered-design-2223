@@ -68,8 +68,7 @@ Petra is blind. Bij het navigeren gebruikt ze een aantal hulpmiddelen, waaronder
 
 <details>
 <summary>Passende kleding uitzoeken</summary>
-<p>Je representatief kunnen kleding in verschillende omstandigheden is voor iedereen belangrijk, ook voor Petra. Wat is casual, zakelijk, feestelijk of geschikt voor een begrafenis? Petra heeft een kast vol kleren die ze graag op het juiste moment wil kunnen gebruiken.</p>
-<p>Hoe vind je de juiste kleurencombinaties als je het niet kunt zien? Ontwerp een systeem dat de ordening van de kast voor Petra inzichtelijk maakt op kleur en stijl.</p>
+<p>Je representatief kunnen kleding in verschillende omstandigheden is voor iedereen belangrijk, ook voor Petra. Wat is casual, zakelijk, feestelijk of geschikt voor een begrafenis? Petra heeft een kast vol kleren die ze graag op het juiste moment wil kunnen gebruiken. Hoe vind je de juiste kleurencombinaties als je het niet kunt zien? Ontwerp een systeem dat de ordening van de kast voor Petra inzichtelijk maakt op kleur en stijl.</p>
 </details>
 
 
@@ -79,8 +78,7 @@ Nicolette kan beperkt gebruik maken van haar ledematen. Ze gebruikt een rolstoel
 
 <details>
 <summary>Knippen en plakken zonder klikken</summary>
-<p>Voor haar werk leest en deelt Nicolette veel stukken tekst op o.a. de website van de gemeente. Het is belangrijk om hier de juiste stukken uit te kunnen halen en door te kunnen sturen.</p>
-<p>Zonder rechtermuisknop of snelkoppeling is knippen en plakken bijna niet mogelijk. Ontwerp een manier om met spraak en tekentablet tekst te navigeren, selecteren, te knippen en te plakken.</p>
+<p>Voor haar werk leest en deelt Nicolette veel stukken tekst op o.a. de website van de gemeente. Het is belangrijk om hier de juiste stukken uit te kunnen halen en door te kunnen sturen. Zonder rechtermuisknop of snelkoppeling is knippen en plakken bijna niet mogelijk. Ontwerp een manier om met spraak en tekentablet tekst te navigeren, selecteren, te knippen en te plakken.</p>
 </details>
 
 
