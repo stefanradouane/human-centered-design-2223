@@ -37,23 +37,6 @@ Eric is een ontwerper. Hij organiseert regelmatig design-avonden waar hij probee
 </details>
 -->
 
-<!--
-### Marijn Meijles
-
-Marijn is waarschijnlijk de beste developer die je ooit gaat ontmoeten. Een briljante nerd. Hij doet al jaren met heel veel plezier mee aan deze opdracht.
-Marijn heeft een motorische stoornis. Hij gebruikt zijn computer dus anders dan wij. Hij heeft veel moeite met fijne motoriek. Hij gebruikt zijn toetsenbord om te navigeren, en in de Accessibility settings van zijn Mac heeft hij Sticky Keys aan staan.
-
-<details>
-<summary>Ontwerp een date picker voor Marijn</summary>
-<p>Hij reist veel met de trein, en hij moet van tevoren aangeven welke trein hij wil nemen zodat er iemand is om hem te helpen met zijn rolstoel. Date-pickers zijn over het algemeen priegelig, en niet ontworpen voor iemand die afhankelijk is van zijn toetsenbord?
-</details>
-
-<details>
-<summary>Ontwerp een Drag & Drop lijst</summary>
-<p>Hoe kun je een drag & drop lijst optimaliseren voor een gebruiker die afhankelijk is van zijn toetsenbord én motorisch gestoord is?
-</details>
--->
-
 ### Marie van Driessche
 
 Marie is Doof (met een hoofdletter inderdaad, dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is). Je zult begrijpen dat Marie moeite heeft met dingen waar geluid een grote rol speelt.
@@ -75,18 +58,30 @@ Larissa is blind. Ze maakt gebruik van een brailleregel, en van een screenreader
 
 <details>
 <summary>Topsport-rooster begrijpen</summary>
-<p>Alle topwielrenners krijgen om de zoveel tijd een Excel sheet toegestuurd waarin alle trainingsschema’s staan. Dit is een uitgebreid, complex ding. En hij is *colour coded*. Je moet dus kunnen zien om hem te kunnen gebruiken. Dat kunnen jullie beter. Dus. Ontwerp een oplossing waardoor Larissa op een prettige en manier de relevante data kan gebruiken.
+<p>Alle topwielrenners krijgen om de zoveel tijd een Excel sheet toegestuurd waarin alle trainingsschema’s staan. Dit is een uitgebreid, complex ding. En hij is *colour coded*. Je moet dus kunnen zien om hem te kunnen gebruiken. Dat kunnen jullie beter. Dus. Ontwerp een oplossing waardoor Larissa op een prettige en manier de relevante data kan gebruiken.</p>
 </details>
+
+
+### Petra Huidink-de Jong
+
+Petra is blind. Bij het navigeren gebruikt ze een aantal hulpmiddelen, waaronder een toetsenbord met braille regel en een screenreader. Deze apparaten zijn ontworpen om de informatie van visuele designs om te zetten naar voor haar bruikbare informatie. Maar daar gaat veel in verloren omdat niet alles om te zetten is, of heel erg omslachtig werkt. Petra werkt bij Cliëntenbelang Amsterdam als beleidsmedewerker Toegankelijkheid en Mobiliteit, heeft een eigen vertaalbureau. Daarnaast is ze vrijwilliger bij de luisterlijn en sport graag.
 
 <details>
-<summary>Onzichtbare datavisualisatie</summary>
-<p>Sommigen van jullie hebben hiervoor gewerkt aan datavisualisaties. Prachtige produkten zijn daar uitgekomen. Maar hoe zouden die interactieve datavisualisaties werken en er uitzien als de doelgroep alleen bestond uit Larissa Klaassen?
+<summary>Passende kleding uitzoeken</summary>
+<p>Je representatief kunnen kleding in verschillende omstandigheden is voor iedereen belangrijk, ook voor Petra. Wat is casual, zakelijk, feestelijk of geschikt voor een begrafenis? Petra heeft een kast vol kleren die ze graag op het juiste moment wil kunnen gebruiken.</p>
+<p>Hoe vind je de juiste kleurencombinaties als je het niet kunt zien? Ontwerp een systeem dat de ordening van de kast voor Petra inzichtelijk maakt op kleur en stijl.</p>
 </details>
 
-### Petra
 
+### Nicolette Besemer
 
-### Nicolette
+Nicolette kan beperkt gebruik maken van haar ledematen. Ze gebruikt een rolstoel om zich te verplaatsen, en op haar computer maakt ze gebruik van spraaksoftware en een tekentablet in plaats van een muis. Dit maakt navigeren lastig omdat ze geen snelkoppelingen kan gebruiken. Nicolette houdt zich veel bezig met toegankelijkheid. Daarnaast organiseerd ze veel voor de buurt en voor andere vrijwilligers. Ze is geoloog van beroep geweest en bezoekt graag natuurkundige wonderen. Ook is ze gepassioneerd door de natuur.
+
+<details>
+<summary>Knippen en plakken zonder klikken</summary>
+<p>Voor haar werk leest en deelt Nicolette veel stukken tekst op o.a. de website van de gemeente. Het is belangrijk om hier de juiste stukken uit te kunnen halen en door te kunnen sturen.</p>
+<p>Zonder rechtermuisknop of snelkoppeling is knippen en plakken bijna niet mogelijk. Ontwerp een manier om met spraak en tekentablet tekst te navigeren, selecteren, te knippen en te plakken.</p>
+</details>
 
 
 
