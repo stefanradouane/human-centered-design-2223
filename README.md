@@ -58,7 +58,7 @@ Daarna prototypen.
 
 ### Donderdag 20 april
 
-Donderdag krijg je een college over testen. Ook gaan we deze les het artikel [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/) bespreken.
+Donderdag krijg je een college over testen. Ook gaan we deze les het artikel [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/flipping-things/) bespreken.
 
 Daarna prototypen en testen.
 
