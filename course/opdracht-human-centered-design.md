@@ -63,16 +63,6 @@ Eric is een ontwerper. Hij organiseert regelmatig design-avonden waar hij probee
 <p>Voor Eric zijn emoji’s niet goed genoeg. Wij wil betere en krachtigere tools om emotie en *body language* te gebruiken in chat apps zoals Signal.
 </details>
 
-### Larissa Klaassen
-
-Larissa is blind. Ze maakt gebruik van een brailleregel, en van een screenreader. Je snapt dat heel veel van de gangbare design patterns niet optimaal werken voor haar omdat ze 100% vanuit een visueel oogpunt ontworpen zijn. Larissa werkt bij de HvA. En daarnaast is ze topsporter. Ze heeft laatst een gouden medaille gewonnen op de olympische spelen.
-
-<details>
-<summary>Topsport-rooster in excel begrijpen</summary>
-<p>Alle topwielrenners krijgen om de zoveel tijd een Excel sheet toegestuurd waarin alle trainingsschema’s staan. Dit is een uitgebreid, complex ding. En hij is *colour coded*. Je moet dus kunnen zien om hem te kunnen gebruiken. Dat kunnen jullie beter. Dus. Ontwerp een oplossing waardoor Larissa op een prettige en manier de relevante data kan gebruiken.</p>
-</details>
-
-
 
 ## Criteria
 
