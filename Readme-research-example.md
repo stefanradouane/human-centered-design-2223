@@ -16,3 +16,7 @@ Schrijf hier hoe jij het probleem hebt opgelost.
 
 ## Link prototype
 Maak hier een link aan naar jouw (final) prototype.
+
+
+# Documentatie van de Design Principles, User Needs, Testen en Testresultaten.
+Typ typ typ. 
