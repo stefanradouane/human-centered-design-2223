@@ -12,7 +12,7 @@ Voor Eric: Body language in chat apps.
 Schrijf hier wat het probleem is
 
 ## Oplossing
-Schrijf hier hoe jij het probleem hebt opgelost.
+Schrijf hier hoe jij het probleem hebt opgelost, hoe werkt jouw prototype?
 
 ## Link prototype
 Maak hier een link aan naar jouw (final) prototype.
