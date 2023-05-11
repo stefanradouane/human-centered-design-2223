@@ -1,6 +1,6 @@
 # Titel van jouw prototype
 
-Hier een plaatje van jouw prototype: <img>
+Hier een plaatje van jouw prototype: `<img>`
 
 ## Onderzoeksvraag
 Onderzoeksvragen voor Marie zijn: Hoe werkt een podcast voor Marie, of hoe werken closed captions voor Marie? 
